@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as e,ae as p}from"./chunks/framework.DU-D2vrN.js";const u=JSON.parse('{"title":"Chaterm.ai 官网","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),i={name:"README.md"};function t(l,a,o,c,d,r){return e(),n("div",null,a[0]||(a[0]=[p("",20)]))}const b=s(i,[["render",t]]);export{u as __pageData,b as default};
